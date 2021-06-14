@@ -1,0 +1,22 @@
+{
+  "name": "movie-catalogue",
+  "version": "0.0.1",
+  "description": "Latihan PWA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/refririfwan/movie-catalogue.git"
+  },
+  "keywords": [
+    "PWA"
+  ],
+  "author": "@refririfwan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/refririfwan/movie-catalogue/issues"
+  },
+  "homepage": "https://github.com/refririfwan/movie-catalogue#readme"
+}
