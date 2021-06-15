@@ -1,6 +1,6 @@
 {
   "name": "movie-catalogue",
-  "version": "0.0.9",
+  "version": "0.1.0",
   "description": "Latihan PWA",
   "main": "index.js",
   "scripts": {
