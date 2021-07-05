@@ -1,4 +1,4 @@
-import FavoriteMovieIdb from '../../data/favoritemovie-idb';
+import FavoriteMovieIdb from '../../data/favorite-movie-idb';
 import { createMovieItemTemplate } from '../templates/template-creator';
 
 const Like = {

@@ -1,6 +1,3 @@
-/* eslint-disable no-unused-vars */
-/* eslint-disable no-restricted-globals */
-/* eslint-disable no-console */
 import 'regenerator-runtime';
 import CacheHelper from './utils/cache-helper';
 

@@ -1,4 +1,3 @@
-/* eslint-disable no-underscore-dangle */
 import CONFIG from '../globals/config';
 
 const CacheHelper = {

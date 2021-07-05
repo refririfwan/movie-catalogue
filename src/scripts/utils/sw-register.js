@@ -5,7 +5,6 @@ const swRegister = async () => {
     await runtime.register();
     return;
   }
-  // eslint-disable-next-line no-console
   console.log('Service worker not supported in this browser');
 };
 

@@ -39,7 +39,7 @@ const createMovieItemTemplate = (movie) => `
 
 const createLikeButtonTemplate = () => `
   <button aria-label="like this movie" id="likeButton" class="like">
-    <i class="fa fa-heart-o" aria-hidden="true"></i>
+     <i class="fa fa-heart-o" aria-hidden="true"></i>
   </button>
 `;
 

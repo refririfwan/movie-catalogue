@@ -1,5 +1,4 @@
-/* eslint-disable no-underscore-dangle */
-import FavoriteMovieIdb from '../data/favoritemovie-idb';
+import FavoriteMovieIdb from '../data/favorite-movie-idb';
 import { createLikeButtonTemplate, createLikedButtonTemplate } from '../views/templates/template-creator';
 
 const LikeButtonInitiator = {
