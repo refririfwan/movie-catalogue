@@ -13,6 +13,7 @@ module.exports = function (config) {
     // list of files / patterns to load in the browser
     files: [
       'specs/**/*Spec.js',
+      'specs/likeMovieSpec.js'
     ],
 
     // list of files / patterns to exclude
